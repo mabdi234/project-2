@@ -1,0 +1,115 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.41793100000001,36.778259000000006 ]
+    },
+    "properties": {
+    "states":"CA",
+    "jobs":2152
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.382439,42.407211 ]
+    },
+    "properties": {
+    "states":"MA",
+    "jobs":1323
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.74013500000001,47.751076 ]
+    },
+    "properties": {
+    "states":"WA",
+    "jobs":935
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0,43.0 ]
+    },
+    "properties": {
+    "states":"NY",
+    "jobs":926
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.0,40.0 ]
+    },
+    "properties": {
+    "states":"IL",
+    "jobs":471
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.03636999999999,38.895109999999995 ]
+    },
+    "properties": {
+    "states":"DC",
+    "jobs":340
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.441162,33.247875 ]
+    },
+    "properties": {
+    "states":"GA",
+    "jobs":269
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.35888700000001,39.113014 ]
+    },
+    "properties": {
+    "states":"CO",
+    "jobs":251
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.0,31.0 ]
+    },
+    "properties": {
+    "states":"TX",
+    "jobs":218
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.871826,39.833851 ]
+    },
+    "properties": {
+    "states":"NJ",
+    "jobs":68
+    }
+  }
+]
+}
