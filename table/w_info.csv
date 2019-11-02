@@ -1,0 +1,58 @@
+,cities,state,salary
+0,Mesa, AZ,60363.0
+1,Phoenix, AZ,65284.0
+2,Scottsdale, AZ,61053.0
+3,Yuma Proving Ground, AZ,45177.6
+4,Berkeley, CA,87134.0
+5,Beverly Hills, CA,60632.0
+6,Burbank, CA,83657.59999999999
+7,Calabasas, CA,71448.0
+8,Carlsbad, CA,47112.0
+9,Carpinteria, CA,31200.0
+10,Culver City, CA,60985.6
+11,Cupertino, CA,89689.59999999999
+12,Dublin, CA,54866.0
+13,Folsom, CA,64251.200000000004
+14,French Camp, CA,90080.0
+15,Hayward, CA,45364.799999999996
+16,Huntington Beach, CA,33217.6
+17,Industry, CA,34715.200000000004
+18,Irvine, CA,73474.0
+19,Livermore, CA,95332.0
+20,Los Angeles, CA,64143.0
+21,Menlo Park, CA,93416.0
+22,Milpitas, CA,80877.0
+23,Mountain View, CA,91208.0
+24,Oakland, CA,79809.59999999999
+25,Ontario, CA,73643.0
+26,Palo Alto, CA,100422.40000000001
+27,Pasadena, CA,63772.8
+28,Rancho Cucamonga, CA,72173.0
+29,Riverside, CA,67742.0
+30,Sacramento, CA,50606.399999999994
+31,San Diego, CA,63544.0
+32,San Francisco, CA,89909.0
+33,San Jose, CA,93100.8
+34,San Ramon, CA,94536.0
+35,Santa Ana, CA,54467.0
+36,Santa Barbara, CA,78252.0
+37,Santa Clara, CA,111427.0
+38,Santa Monica, CA,73091.2
+39,Sunnyvale, CA,96449.59999999999
+40,Torrance, CA,77480.0
+41,Universal City, CA,110468.8
+42,West Hollywood, CA,117826.0
+43,Woodland Hills, CA,70154.0
+44,Aurora, CO,39208.0
+45,Denver, CO,81425.0
+46,Englewood, CO,75192.0
+47,Louisville, CO,78000.0
+48,Las Vegas, NV,50752.0
+49,Beaverton, OR,94432.0
+50,Hillsboro, OR,52582.4
+51,Portland, OR,62874.0
+52,Salt Lake City, UT,61061.0
+53,Bellevue, WA,79643.2
+54,Olympia, WA,72317.0
+55,Redmond, WA,34652.8
+56,Tacoma, WA,73456.0
